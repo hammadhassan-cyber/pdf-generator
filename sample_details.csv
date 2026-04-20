@@ -1,0 +1,9 @@
+name,id,email,dept_role,performance
+Ali Hassan,S001,ali@university.edu,Computer Science,85% - Excellent
+Sara Khan,S002,sara@university.edu,Data Science,91% - Outstanding
+Ahmed Raza,S003,ahmed@university.edu,Software Engineering,78% - Good
+Fatima Malik,S004,fatima@university.edu,Artificial Intelligence,88% - Very Good
+Usman Tariq,S005,usman@university.edu,Cybersecurity,72% - Satisfactory
+Ayesha Noor,S006,ayesha@university.edu,Web Development,95% - Distinction
+Bilal Chaudhry,S007,bilal@university.edu,Database Systems,80% - Good
+Zara Siddiqui,S008,zara@university.edu,Cloud Computing,67% - Average
